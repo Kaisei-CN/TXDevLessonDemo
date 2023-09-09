@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{36D4CA08-4AF0-8073-0EC5-2F82E93C91C9}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "TXDevLessonDemo",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
